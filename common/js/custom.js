@@ -39,12 +39,12 @@ $(document).ready(function(e) {
 			maxlength:"Please enter maximum 20 character"
 			},
             email: {
-                required: "Please enter an email address",
-                email: "Please enter a valid email address"
+                required: "Introduce-ti o adresa e-mail",
+                email: "Introduce-ti o adresa e-mail valida"
             },
-            phone: "Please enter a valid phone number",	
-            msg: {required:"Please enter your Message" ,
-			maxlength:"Please enter maximum 1000 character"
+            phone: "Introduceti un nr. de tel. valid",	
+            msg: {required:"Scrieti mesaj.." ,
+			maxlength:"Maxim 1000 de caractere.."
 			}
         }
 		
